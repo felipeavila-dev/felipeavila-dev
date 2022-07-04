@@ -3,6 +3,7 @@
 - 👨‍💻 Desenvolvedor front-end jr
 - 📝 Estudante de desenvolvimento full stack na [Trybe](https://www.betrybe.com/)
 - 🛠 Portfólio em construção, porem você pode encontrar alguns projetos logo abaixo
+- Me acompanhe no LinkedIn - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-avila/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeavila-dev&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeavila-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,3 +14,4 @@
 <span><img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /></span>
 <span><img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /></span>
 <span><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' /></span>
+
