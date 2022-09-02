@@ -1,8 +1,8 @@
 ### Olá, Devs! Me chamo Felipe Avila, sejam bem vindos! 👋
 
 - 👨‍💻 Desenvolvedor front-end jr
-- 📝 Estudante de desenvolvimento full stack na [Trybe](https://www.betrybe.com/)
-- 🛠 Portfólio em construção, porem você pode encontrar alguns projetos logo abaixo
+- 📝 Estudante de desenvolvimento full stack na [Trybe](https://www.betrybe.com/) e [RocketSeat](https://www.rocketseat.com.br/)
+- 🚀 Aprendizado constante e evolução diaria
 - Que tal me acompanhar no LinkedIn? - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-avila/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeavila-dev&show_icons=true&theme=onedark)
