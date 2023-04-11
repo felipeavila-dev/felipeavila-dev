@@ -1,7 +1,6 @@
 ### Olá, Devs! Me chamo Felipe Avila, sejam bem vindos! 👋
 
-- 👨‍💻 Desenvolvedor React jr
-- 📝 Estudante de desenvolvimento full stack na [Trybe](https://www.betrybe.com/) e [RocketSeat](https://www.rocketseat.com.br/)
+- 👨‍💻 Desenvolvedor React, React native e Typescript
 - 🚀 Aprendizado constante e evolução diaria
 - Que tal me acompanhar no LinkedIn? - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-avila/)
 
