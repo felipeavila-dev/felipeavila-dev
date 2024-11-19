@@ -7,8 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeavila-dev&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeavila-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<span><img src='https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white' /></span>
-<span><img src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white' /></span>
+<span><img src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white' /></span>
 <span><img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /></span>
 <span><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /></span>
 <span><img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' /></span>
